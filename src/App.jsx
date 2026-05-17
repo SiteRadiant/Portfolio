@@ -236,9 +236,9 @@ function App() {
           <div className="section-inner hero-grid">
             <div className="hero-content">
               <p className="eyebrow" data-reveal="hero">
-                A startup Site Radiant built for modern brands and founders
+              Site Radiant built for modern brands and founders
               </p>
-              <h1 data-reveal="hero">We Are the Startup That Builds Your Brand</h1>
+              <h1 data-reveal="hero">Websites Are Just the Beginning — We Build Complete Digital Solutions.</h1>
               <p className="hero-copy" data-reveal="hero">
                 We are a fast-moving Site Radiant startup delivering brand, product, and
                 launch experiences that turn attention into adoption.
