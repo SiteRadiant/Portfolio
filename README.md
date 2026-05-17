@@ -1,6 +1,6 @@
 # Site Radiant
 
-Premium, cinematic one-page agency website built with React + Vite and GSAP.
+Premium, cinematic one-page Site Radiant website built with React + Vite and GSAP.
 
 ## Features
 - Cinematic hero with layered motion

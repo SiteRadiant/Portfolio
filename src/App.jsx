@@ -236,11 +236,11 @@ function App() {
           <div className="section-inner hero-grid">
             <div className="hero-content">
               <p className="eyebrow" data-reveal="hero">
-                A startup agency built for modern brands and founders
+                A startup Site Radiant built for modern brands and founders
               </p>
               <h1 data-reveal="hero">We Are the Startup That Builds Your Brand</h1>
               <p className="hero-copy" data-reveal="hero">
-                We are a fast-moving agency startup delivering brand, product, and
+                We are a fast-moving Site Radiant startup delivering brand, product, and
                 launch experiences that turn attention into adoption.
               </p>
               <div className="hero-actions" data-reveal="hero">
