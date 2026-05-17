@@ -238,7 +238,7 @@ function App() {
               <p className="eyebrow" data-reveal="hero">
               Site Radiant built for modern brands and founders
               </p>
-              <h1 data-reveal="hero">Websites Are Just the Beginning — We Build Complete Digital Solutions.</h1>
+              <h1 data-reveal="hero">We Don’t Sell Websites. We Deliver Online Growth.</h1>
               <p className="hero-copy" data-reveal="hero">
                 We are a fast-moving Site Radiant startup delivering brand, product, and
                 launch experiences that turn attention into adoption.
