@@ -623,6 +623,10 @@ function App() {
                     <option>INR 75,000+</option>
                   </select>
                 </label>
+                <label>
+                  Referral Code (optional)
+                  <input type="text" placeholder="Referral code (if any)" />
+                </label>
                 <label className="full">
                   Project details
                   <textarea
